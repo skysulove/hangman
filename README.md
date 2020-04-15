@@ -1,6 +1,6 @@
 Console game
 **[Hangman](https://en.wikipedia.org/wiki/Hangman_(game)). 
-(This program is written in `Ruby`** )
+This program is written in `Ruby`**
 ============
 
 ### Desc
