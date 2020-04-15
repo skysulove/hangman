@@ -19,4 +19,5 @@ Ruby v.2.7.0
 [~/hangman]$ ruby main.rb
 ```
 ### Adding new words
-The file is located in hangman / data / words.txt.
+The file is located in `hangman/data/words.txt.`
+
