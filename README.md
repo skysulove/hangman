@@ -1,8 +1,8 @@
-### Console game
+### Консольная игра "Виселица"
 
 ============
 
-### Desccription
+### Описание
 
 ``` bash
           _______
@@ -20,23 +20,22 @@
       * * *  RIP  * * *
 ```
 
-This program is written in `Ruby`
+Данная программа написана на языке`Ruby`
 
-[Hangman](https://en.wikipedia.org/wiki/Hangman_(game)) is a console guessing game for two or more players. Computer "thinks" of a word, 
-phrase or sentence and the player tries to guess it by suggesting letters 
-within a certain number of guesses.(7 attempts are available)
+[Виселица](https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%81%D0%B5%D0%BB%D0%B8%D1%86%D0%B0_(%D0%B8%D0%B3%D1%80%D0%B0)) консольная игра для одного или более игроков. Компьютер "загадывает" случайное слово которое игрок (игроки) пытаются отгадать по буквам. Предоставляется 7 попыток. 
 
-### Requirements
+### Необходимые требования для запуска
 
 Ruby v.2.7.0
 
-### How-to-use
+### Как пользоваться программой
 
+Запустите в консоли следующий файл:
 ```bash
 ruby main.rb
 ```
-### Adding new words
-The file is located in `hangman/data/words.txt.`
+### Добавление новых слов
+Файл со словами расположен по следующему пути `hangman/data/words.txt.`
 
-### Authors
+### Автор программы
 Lex Gnatovsky [skysulove](https://github.com/skysulove)
