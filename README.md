@@ -38,4 +38,4 @@ ruby main.rb
 Файл со словами расположен по следующему пути `hangman/data/words.txt.`
 
 ### Автор программы
-Lex Gnatovsky [skysulove](https://github.com/skysulove)
+[Lex Gnatovsky](https://github.com/skysulove)
