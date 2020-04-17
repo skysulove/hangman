@@ -35,7 +35,7 @@ Ruby v.2.7.0
 ruby main.rb
 ```
 ### Добавление новых слов
-Файл со словами расположен по следующему пути `hangman/data/words.txt.`
+Файл со словами расположен по следующему пути: `hangman/data/words.txt.`
 
 ### Автор программы
 [Lex Gnatovsky](https://github.com/skysulove)
